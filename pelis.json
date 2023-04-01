@@ -1,0 +1,78 @@
+[{
+    "title": "Red",
+    "rating": 4,
+    "tags": ["infantil", "fantasia", "aventura"],
+    "anio": 2022
+},
+{
+    "title": "Soul",
+    "rating": 5,
+    "tags": ["infantil", "comedia", "drama"],
+    "anio": 2020
+    
+},
+{
+    "title": "Encanto",
+    "rating": 4,
+    "tags": ["infantil", "comedia", "drama"],
+    "anio": 2021
+    
+},
+{
+    "title": "Soul",
+    "rating": 4,
+    "tags": ["infantil", "comedia", "drama"],
+    "anio": 2020
+    
+},
+{
+    "title": "Coco",
+    "rating": 5,
+    "tags": ["animacion", "comedia", "drama"],
+    "anio": 2017
+    
+},
+{
+    "title": "Unidos",
+    "rating": 5,
+    "tags": ["animacion", "comedia", "aventura"],
+    "anio": 2020
+    
+},
+{
+    "title": "Luca",
+    "rating": 5,
+    "tags": ["fantasia", "comedia", "drama"],
+    "anio": 2021
+    
+},
+{
+    "title": "Intensamente",
+    "rating": 5,
+    "tags": ["comedia dramatica", "comedia cinematografica", "drama"],
+    "anio": 2015
+    
+},
+{
+    "title": "Zootopia",
+    "rating": 5,
+    "tags": ["crimen", "aventura", "infantil"],
+    "anio": 2016
+    
+},
+{
+    "title": "Ralph, el demoledor",
+    "rating": 5,
+    "tags": ["infantil", "comedia", "ciencia ficcion"],
+    "anio": 2016
+    
+},
+{
+    "title": "Lightyear",
+    "rating": 2,
+    "tags": ["aventura", "accion", "ciencia ficcion"],
+    "anio": 2022
+    
+}
+
+]
